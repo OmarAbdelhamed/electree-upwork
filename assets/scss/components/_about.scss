@@ -2,6 +2,8 @@
 .about {
   &__container {
     row-gap: 2rem;
+    justify-content: center;
+    align-items: center;
   }
   &__data {
     display: flex;

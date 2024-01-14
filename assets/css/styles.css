@@ -391,6 +391,8 @@ the website, in dark theme
 /*=============== ABOUT ===============*/
 .about__container {
   row-gap: 2rem;
+  justify-content: center;
+  align-items: center;
 }
 .about__data {
   display: flex;
